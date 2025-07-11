@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+@keyframes blob1 {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(20px, -30px) scale(1.1); }
+}
+
+@keyframes blob2 {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(-20px, 30px) scale(1.1); }
+}
+
+@keyframes blob3 {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  50% { transform: translate(0px, -20px) scale(1.1); }
+}
+
+.animate-blob1 {
+  animation: blob1 20s infinite ease-in-out;
+}
+.animate-blob2 {
+  animation: blob2 25s infinite ease-in-out;
+}
+.animate-blob3 {
+  animation: blob3 22s infinite ease-in-out;
+}
