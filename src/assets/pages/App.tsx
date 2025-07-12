@@ -1,4 +1,3 @@
-import React from 'react';
 import TestCaseCard from '../components/TestCaseCard';
 
 const App = () => {
