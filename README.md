@@ -25,7 +25,7 @@ https://qualgent.netlify.app/
 
 - **Frontend:** React + TypeScript + Tailwind CSS
 - **AI:** OpenAI or local model-compatible prompts
-- **Backend:** Supabase (PostgreSQL + Auth)
+- **Backend:** Supabase
 - **State Management:** React Context & Hooks
 - **Animations:** Framer Motion
 - **Drag & Drop:** `@dnd-kit/core`
