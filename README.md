@@ -41,6 +41,7 @@ https://qualgent.netlify.app/
 ### 1. Download the repo
 
 ## Install Dependencies
+
  npm i
  
  npm init -y
@@ -54,6 +55,7 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 VITE_OPENAI_API_KEY=sk-
 
 ## Run the setup
+
 npm run dev
 
 
