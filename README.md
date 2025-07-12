@@ -57,4 +57,4 @@ VITE_OPENAI_API_KEY=sk-
 npm run dev
 
 
-
+## Please reach out to me if you need any more information on the project
