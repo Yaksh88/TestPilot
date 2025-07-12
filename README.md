@@ -42,6 +42,7 @@ https://qualgent.netlify.app/
 
 ## Install Dependencies
  npm i
+ 
  npm init -y
 
  ## Setup .env file
