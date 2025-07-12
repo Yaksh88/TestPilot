@@ -2,6 +2,9 @@
 
 QualGEnt is an AI-powered test case assistant built to help QA teams and developers quickly generate, manage, and preview mobile app test cases using natural language. It combines the power of Supabase, React, and AI to streamline QA workflows — no spreadsheets, no clutter.
 
+## Deployed
+https://qualgent.netlify.app/
+
 ---
 
 ## 🚀 Features
@@ -43,7 +46,9 @@ QualGEnt is an AI-powered test case assistant built to help QA teams and develop
  ## Setup .env file
 
  VITE_SUPABASE_URL=your_supabase_url
+ 
 VITE_SUPABASE_ANON_KEY=your_anon_key
+
 VITE_OPENAI_API_KEY=sk-
 
 ## Run the setup
