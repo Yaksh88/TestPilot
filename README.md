@@ -1,4 +1,4 @@
-# 🧪 QualGent/TestPilot
+# 🧪 TestPilot
 
 QualGent is an AI-powered test case assistant built to help QA teams and developers quickly generate, manage, and preview mobile app test cases using natural language. It combines the power of Supabase, React, and AI to streamline QA workflows — no spreadsheets, no clutter.
 
@@ -58,5 +58,3 @@ VITE_OPENAI_API_KEY=sk-
 
 npm run dev
 
-
-## Please reach out to me if you need any more information on the project
