@@ -60,7 +60,7 @@ const Sidebar = () => {
       <aside className="hidden md:flex w-56 h-screen p-5 flex-col justify-between bg-gradient-to-b from-white/70 to-white/20 backdrop-blur-xl shadow-inner">
         <div>
           <h1 className="text-xl font-extrabold text-blue-700 mb-10 tracking-tight">
-            QualGent
+            TestPilot
           </h1>
           <nav className="space-y-3">
             {menuItems.map(({ label, icon }) => (
